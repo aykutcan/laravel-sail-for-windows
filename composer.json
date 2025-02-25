@@ -1,5 +1,5 @@
 {
-  "name": "walterwoshid/laravel-sail-for-windows",
+  "name": "aykutcan/laravel-sail-for-windows",
   "description": "Windows (PowerShell) support for Laravel Sail on Windows.",
   "keywords": ["laravel", "sail", "windows", "powershell"],
   "type": "library",
